@@ -1,13 +1,13 @@
 /**
  * @name NoNitroThanks
- * @description Everyone hates ads right? So... why is discord going to be an exception with nitro?
- * @author ImSwordKing
+ * @description Everyone hates ads right? So... why is discord going to be an exception with nitro? Fixed, after ImSwordKing made a little bit of trolling inside css.
+ * @author ImSwordKing.
  * @version 1.0.5
  */
 
 /* Disable all the data tracking options in "Privacy & Safety" before using the theme. */
 /* most of the theme was made by Nyria#3863. */
 
-/* IF SOMETHING GOES WRONG PLEASE MAKE AN ISSUE HERE: https://github.com/ImSwordKing/DiscordModifiCSSations/issues */
+/* IF SOMETHING GOES WRONG PLEASE MAKE AN ISSUE HERE: https://github.com/Typical248/DiscordModifiCSSations/issues */
 
-@import url('https://ImSwordKing.github.io/DiscordStuff/NoNitroThanks/main.css');
+@import url('https://raw.githubusercontent.com/Typical0/DiscordModifiCSSations/main/NoNitroThanks/main.css');
